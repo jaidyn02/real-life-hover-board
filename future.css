@@ -35,3 +35,6 @@ body {
   grid-column: 2;
   grid-row: 2;
 }
+.header {
+  background-color: #999;
+}

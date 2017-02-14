@@ -38,3 +38,9 @@ body {
 .header {
   background-color: #999;
 }
+.content {
+  grid-area: content;
+}
+.sidebar {
+  grid-area: sidebar;
+}

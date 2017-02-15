@@ -3,6 +3,7 @@ body {
   background-repeat:no-repeat;
   padding:0%;
   margin:40%;
+  font: 80% Arial, Helvetica, sans-serif;
 }
 .wrapper {
   display: grid;

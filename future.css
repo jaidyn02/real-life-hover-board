@@ -21,6 +21,9 @@ body {
   padding: 20px;
   font-size: 150%;
 }
+.headbar {
+  grid-area: content;
+}
 .a {
   grid-column: 1/3;
   grid-row: 1;

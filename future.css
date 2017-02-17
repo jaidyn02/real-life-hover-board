@@ -8,8 +8,9 @@ body {
 .wrapper {
   display: grid;
   grid-template-columns: 120px 120px 120px;
-  grid-template-columns: repeat(5, [col] 100px ) ;
-  grid-template-rows: repeat(3, [row] auto );
+  grid-gap: 10px;
+  grid-template-columns: [col] 100px [col] 100px [col] 100px [col] 100px;
+  grid-template-rows: [row] auto [row] auto [row];
   grid-gap: 10px;
   background-color: #fff;
   color: #444;

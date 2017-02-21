@@ -11,9 +11,7 @@ body {
 .content {
   grid-area: content;
 }
-.header {
-  grid-area: header;
-}
+.header,
 .footer {
   background-color: #999;
 }

@@ -17,6 +17,10 @@ body {
 .wrapper {
   display: grid;
   grid-template-columns: 120px 120px 120px;
+  grid-template-areas:
+    "hello header header"
+    "sidebar content content"
+    "footer footer footer"
   grid-gap: 10px;
   background-color: #fff;
   color: #444;

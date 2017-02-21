@@ -18,7 +18,7 @@ body {
   display: grid;
   grid-template-columns: 120px 120px 120px;
   grid-template-areas:
-    "hello header header"
+    "...... header header"
     "sidebar content content"
     "footer footer footer"
   grid-gap: 10px;

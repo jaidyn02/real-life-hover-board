@@ -8,12 +8,16 @@ body {
 .sidebar {
   grid-area: sidebar;
 }
+.sidebar {
 .content {
   grid-area: content;
 }
-.header,
+.header {
+  grid-area: header;
+  }
 .footer {
   background-color: #999;
+  grid-area: footer;
 }
 .wrapper {
   display: grid;

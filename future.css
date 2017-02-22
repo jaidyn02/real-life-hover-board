@@ -1,9 +1,10 @@
 body {
   background-color:blue;
   background-repeat:no-repeat;
-  padding:0%;
+  padding: 20%;
   margin:40%;
   font: 80% Arial, Helvetica, sans-serif;
+  border-radius: 5px;
 }
 .sidebar {
   grid-area: sidebar;

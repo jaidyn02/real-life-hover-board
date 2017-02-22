@@ -9,7 +9,6 @@ body {
 .sidebar {
   grid-area: sidebar;
 }
-.sidebar {
 .content {
   grid-area: content;
 }

@@ -12,10 +12,11 @@ body {
 .content {
   grid-area: content;
 }
-.header, 
+.header {
+  grid-area: header;
+}
 .footer {
   grid-area: footer;
-  background-color: #999;
 }
 .wrapper {
   display: grid;

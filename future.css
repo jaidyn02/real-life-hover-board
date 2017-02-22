@@ -12,10 +12,7 @@ body {
 .content {
   grid-area: content;
 }
-.header {
-  grid-area: header;
-}
-  
+.header, 
 .footer {
   grid-area: footer;
   background-color: #999;

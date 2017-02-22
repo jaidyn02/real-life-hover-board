@@ -35,3 +35,7 @@ body {
   padding: 20px;
   font-size: 150%;
 }
+.header,
+.footer {
+  background-color: #999
+}

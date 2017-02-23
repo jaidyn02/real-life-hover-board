@@ -23,7 +23,7 @@ body {
   grid-template-areas:
     "....... header header"
     "sidebar content content"
-    "footer footer footer"
+    "footer footer footer";
   grid-gap: 10px;
   background-color: #fff;
   color: #444;
